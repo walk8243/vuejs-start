@@ -1,5 +1,21 @@
 # vuejs-start
 
+## Vue.jsプロジェクトの開始コマンド
+
+https://cli.vuejs.org/#getting-started
+
+事前にVue.jsのCLIのインストールが必要です。
+
+```.sh
+npm i @vue/cli -g
+```
+
+CLIのインストールが完了したら、次のコマンドでプロジェクトの作成ができます。
+
+```.sh
+vue create my-project
+```
+
 ## Project setup
 ```
 npm install
